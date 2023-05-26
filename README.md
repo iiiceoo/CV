@@ -6,7 +6,7 @@
 
 ## Reference
 
-[简体中文](https://github.com/iiiceoo/CV/cv-zh_CH.md) 👈<br>
+[简体中文](https://github.com/iiiceoo/CV/blob/main/cv-zh_CH.md) 👈<br>
 [English](TODO) 👈
 
 ## License

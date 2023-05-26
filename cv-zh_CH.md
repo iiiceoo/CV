@@ -1,14 +1,24 @@
-[toc]
-
 # 个人
 
 - *1999-02*
-- *iiiceoo@foxmail.com*
+- *<iiiceoo@foxmail.com>*
 - *Go、云原生、Kubernetes 网络*
+
+- [个人](#个人)
+  - [简介](#简介)
+  - [相关技能](#相关技能)
+  - [教育背景](#教育背景)
+    - [湖南科技大学](#湖南科技大学)
+  - [工作经历](#工作经历)
+    - [上海道客网络科技有限公司](#上海道客网络科技有限公司)
+      - [Spiderpool (Go)](#spiderpool-go)
+    - [创智和宇信息技术股份有限公司](#创智和宇信息技术股份有限公司)
+      - [sauto3 (Python3)](#sauto3-python3)
+      - [PowerRedis (Java)](#powerredis-java)
 
 ## 简介
 
-1. GitHub: https://github.com/iiiceoo
+1. GitHub: <https://github.com/iiiceoo>
 2. 三年服务端工作经验，熟悉云原生生态与 Kubernetes 网络。
 3. 良好的代码风格与测试规范。
 4. 流畅的英文读写能力。
@@ -43,8 +53,8 @@
 
 Spiderpool 是一个适用于 Underlay 网络的高性能 IPAM CNI 插件，它致力于让复杂的 Underlay IPAM 像 Overlay IPAM 一样简单。我是 Spiderpool 的作者之一，它被开源在：
 
-- 仓库：https://github.com/spidernet-io/spiderpool
-- 文档站：https://spidernet-io.github.io/spiderpool
+- 仓库：<https://github.com/spidernet-io/spiderpool>
+- 文档站：<https://spidernet-io.github.io/spiderpool>
 
 特性：
 
@@ -52,7 +62,7 @@ Spiderpool 是一个适用于 Underlay 网络的高性能 IPAM CNI 插件，它�
 2. 以 IPPool 为分配单位管理 IP 地址，IPPool 由上层控制器管理，可以随着 Workload 的生命流程动态的创建、删除、扩缩容等。
 3. 支持第三方控制器，比如被 OpenKruise 控制的 Pod。
 4. 为通用 Workload (Deployment，StatefulSet...) 固定 IP 地址。
-5. 不错的性能，这是一份在 1000 Pod 启停场景下对比社区主流 CNI 的测试报告：https://github.com/spidernet-io/spiderpool/blob/main/docs/usage/performance-zh_CH.md
+5. 不错的性能，这是一份在 1000 Pod 启停场景下对比社区主流 CNI 的测试报告：<https://github.com/spidernet-io/spiderpool/blob/main/docs/usage/performance-zh_CH.md>
 
 ### 创智和宇信息技术股份有限公司
 
