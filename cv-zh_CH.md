@@ -49,7 +49,7 @@
 
 #### Spiderpool (Go)
 
-Spiderpool 是一个适用于 Underlay 网络的高性能 IPAM CNI 插件，它致力于让复杂的 Underlay IPAM 像 Overlay IPAM 一样简单。我是 Spiderpool 的作者之一，它被开源在：
+Spiderpool 是一个适用于 Underlay 网络的高性能 IPAM CNI 插件，它致力于让复杂的 Underlay IPAM 像 Overlay IPAM 一样简单。我是 Spiderpool 的作者之一，它开源在：
 
 - 仓库：<https://github.com/spidernet-io/spiderpool>
 - 文档站：<https://spidernet-io.github.io/spiderpool>
