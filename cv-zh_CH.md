@@ -25,7 +25,7 @@
 
 - 熟练使用 Go 语言，熟悉 Python3 和 Java。
 - 熟悉 Linux 操作系统，熟悉 Shell 编程。
-- 熟悉 TCP/IP 协议栈，理解 Underlay 网络转发原理。熟悉 Linux 网络，理解 netfilter/conntrack/iptables/ipvs 对于数据包的流转过程。
+- 熟悉 TCP/IP 协议栈，理解 Underlay 网络转发原理。熟悉 Linux Bridge、VLAN、VXLAN，理解 netfilter/conntrack/iptables 对于数据包的流转过程。
 - 熟悉 Docker 及相关容器运行时，理解 Linux Namespace、Cgroups 原理。
 - 熟练使用 Kubernetes 平台，熟悉 kubelet 源码。
 - 熟悉 CNI Specification，深入理解 CNI 运行机制与编程。熟悉 Multus、Calico、macvlan 等 CNI 插件。
@@ -59,7 +59,7 @@ Spiderpool 是一个适用于 Underlay 网络的高性能 IPAM CNI 插件，它�
 
 1. IPv4/IPv6 双栈。
 2. 以 IPPool 为分配单位管理 IP 地址，IPPool 由上层控制器管理，可以随着 Workload 的生命流程动态的创建、删除、扩缩容等。
-3. 支持第三方控制器，例如由 OpenKruise 控制的 Pod。
+3. 完善的 IP 回收机制，避免 IP 地址泄漏。
 4. 为通用 Workload (Deployment，StatefulSet...) 固定 IP 地址。
 5. 不错的性能，这是一份在 1000 Pod 启停场景下对比社区主流 CNI 的测试报告：<https://github.com/spidernet-io/spiderpool/blob/main/docs/usage/performance-zh_CH.md>
 
