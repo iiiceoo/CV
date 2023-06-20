@@ -27,7 +27,7 @@
 - 熟悉 Linux 操作系统，熟悉 Shell 编程。
 - 熟悉 TCP/IP 协议栈，理解 Underlay 网络转发原理。熟悉 Linux Bridge、VLAN、VXLAN，理解 netfilter/conntrack/iptables 对于数据包的流转过程。
 - 熟悉 Docker 及相关容器运行时，理解 Linux Namespace、Cgroups 原理。
-- 熟练使用 Kubernetes 平台，熟悉 kubelet 源码。
+- 熟练使用 Kubernetes 平台。
 - 熟悉 CNI Specification，深入理解 CNI 运行机制与编程。熟悉 Multus、Calico、macvlan 等 CNI 插件。
 - 熟悉 Kubernetes API Conventions，精通 CRD、Webhook、Controller 编程。深入理解声明式 API 和 Operator 模式，熟悉 client-go、controller-runtime 源码。
 - 熟悉 Ginkgo、Go testing 测试框架，熟练使用 gomonkey、gomock。
