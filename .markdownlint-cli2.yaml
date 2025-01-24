@@ -1,0 +1,3 @@
+# Disable some build-in rules
+config:
+  line-length: false
