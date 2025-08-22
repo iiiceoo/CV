@@ -1,10 +1,11 @@
-# 个人
+# iiiceoo
 
 *1999-02 | <iiiceoo@foxmail.com> | Go、云原生、Kubernetes*
 
-- [个人](#个人)
-  - [简介](#简介)
+- [iiiceoo](#iiiceoo)
+  - [个人简介](#个人简介)
   - [相关技能](#相关技能)
+  - [AI Infra](#ai-infra)
   - [教育背景](#教育背景)
     - [湖南科技大学](#湖南科技大学)
   - [工作经历](#工作经历)
@@ -15,12 +16,12 @@
       - [sauto3 (Python3)](#sauto3-python3)
       - [PowerRedis (Java)](#powerredis-java)
 
-## 简介
+## 个人简介
 
 1. GitHub: <https://github.com/iiiceoo>
 2. 五年服务端工作经验，熟悉云原生相关生态与 Kubernetes 网络。
-3. 熟练的 Kubernetes、Linux 排障能力。
-4. 良好的文档、代码风格与测试规范。
+3. 熟练的 Linux、Kubernetes 排障能力。
+4. 良好的文档、代码风格和测试规范。
 5. 流畅的英文读写能力。
 
 ## 相关技能
@@ -28,15 +29,25 @@
 - 熟练使用 Go 语言。
 - 熟练使用 Linux 操作系统。
 - 熟练使用 Kubernetes 平台。
-- 熟悉 TCP/IP 协议栈，理解 Linux Netfilter、VLAN、VXLAN、BGP 原理。
+- 熟悉 TCP/IP 协议栈，了解 Linux 网络栈。
 - 熟悉 Docker 及相关容器运行时，理解 Linux Namespace、Cgroups 原理。
-- 熟悉 CNI Specification，深入理解 CNI 运行机制与编程。熟悉 Multus、Calico、Flannel 等 CNI 插件。
+- 熟悉 CNI Specification，深入理解 CNI 运行机制与编程范式。熟悉 Multus、Calico、Flannel 等 CNI 插件。
 - 熟悉 Kubernetes API Conventions，精通 CRD、Webhook、Controller 编程。深入理解声明式 API 以及 Operator 模式，熟悉 client-go、controller-runtime 源码。
 
 > TODO:
 >
+> - BPF
 > - Prometheus
-> - eBPF
+
+## AI Infra
+
+- 了解 GPU、TPU、NPU 硬件架构。
+- 了解 NVLink、NVSwitch 等高速互联技术。
+- 了解 RoCE、InfiniBand 等高性能网络及 RDMA 技术。
+- 理解模型编译与训练/推理流程。
+
+> TOOD:
+>
 > - DRA
 
 ## 教育背景
