@@ -30,21 +30,22 @@
 - 熟练使用 Linux 操作系统。
 - 熟练使用 Kubernetes 平台。
 - 熟悉 TCP/IP 协议栈，了解 Linux 网络栈。
+- 熟悉 BPF，熟练使用 bpftrace、BCC 工具集。
 - 熟悉 Docker 及相关容器运行时，理解 Linux Namespace、Cgroups 原理。
 - 熟悉 CNI Specification，深入理解 CNI 运行机制与编程范式。熟悉 Multus、Calico、Flannel 等 CNI 插件。
 - 熟悉 Kubernetes API Conventions，精通 CRD、Webhook、Controller 编程。深入理解声明式 API 以及 Operator 模式，熟悉 client-go、controller-runtime 源码。
 
 > TODO:
 >
-> - BPF
+> - Cilium
 > - Prometheus
 
 ## AI Infra
 
 - 了解 GPU、TPU、NPU 硬件架构。
 - 了解 NVLink、NVSwitch 等高速互联技术。
-- 了解 RoCE、InfiniBand 等高性能网络及 RDMA 技术。
-- 理解模型编译与训练/推理流程。
+- 了解 RoCE、InfiniBand 等 RDMA 技术。
+- 理解模型编译原理与训练/推理流程。
 
 > TOOD:
 >
