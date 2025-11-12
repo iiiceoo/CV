@@ -30,8 +30,8 @@
 - 熟练使用 Linux 操作系统。
 - 熟练使用 Kubernetes 平台。
 - 熟悉 TCP/IP 协议栈，了解 Linux 网络栈。
-- 熟悉 BPF，熟练使用 bpftrace、BCC 工具集。
-- 熟悉 Docker 及相关容器运行时，理解 Linux Namespace、Cgroups 原理。
+- 熟悉 BPF，熟练使用 USE 方法，熟悉 bpftrace、BCC 工具集。
+- 熟悉 Docker、containerd 容器运行时，理解 Linux Namespace、Cgroups 原理。
 - 熟悉 CNI Specification，深入理解 CNI 运行机制与编程范式。熟悉 Multus、Calico、Flannel 等 CNI 插件。
 - 熟悉 Kubernetes API Conventions，精通 CRD、Webhook、Controller 编程。深入理解声明式 API 以及 Operator 模式，熟悉 client-go、controller-runtime 源码。
 
