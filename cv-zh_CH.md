@@ -1,11 +1,12 @@
 # iiiceoo
 
-*1999-02 | <iiiceoo@foxmail.com> | Go、云原生、Kubernetes*
+*1999-02 | <iiiceoo@foxmail.com> | Go、Kubernetes、AI Infra*
 
 - [iiiceoo](#iiiceoo)
   - [个人简介](#个人简介)
   - [相关技能](#相关技能)
   - [AI Infra](#ai-infra)
+  - [证书](#证书)
   - [教育背景](#教育背景)
     - [湖南科技大学](#湖南科技大学)
   - [工作经历](#工作经历)
@@ -45,11 +46,19 @@
 - 了解 GPU、TPU、NPU 硬件架构。
 - 了解 NVLink、NVSwitch 等高速互联技术。
 - 了解 RoCE、InfiniBand 等 RDMA 技术。
-- 理解模型编译原理与训练/推理流程。
+- 理解模型编译原理与训练、推理流程。
 
 > TOOD:
 >
 > - DRA
+
+## 证书
+
+<div align="left">
+  <a href="https://github.com/iiiceoo/CV/tree/main/cert/hcie-ai.pdf" target="_blank">
+    <img src="./img/hcie-ai.png" width="80" alt="HCIE-AI">
+  </a>
+</div>
 
 ## 教育背景
 
@@ -64,7 +73,7 @@
 ### 平安银行股份有限公司
 
 - 2023-07 - 至今
-- 云平台系统工程师
+- IaaS 运维工程师
 
 ...
 
