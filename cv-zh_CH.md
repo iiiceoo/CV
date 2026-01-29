@@ -23,7 +23,7 @@
 
 ## 个人简介
 
-1. GitHub: <https://github.com/iiiceoo>
+1. GitHub: *<https://github.com/iiiceoo>*
 2. 六年服务端工作经验，熟悉 Kubernetes 及云原生相关生态。
 3. 熟练的 Linux、Kubernetes 排障能力。
 4. 良好的文档、代码风格和测试规范。
@@ -61,8 +61,7 @@
 ### 湖南科技大学
 
 - 2016-08 - 2020-08
-- 本科
-- 信息与计算科学
+- 本科 - 信息与计算科学
 
 ## 工作经历
 
@@ -73,21 +72,21 @@
 
 #### 主要职责
 
-- 云平台 100+ Kubernetes 集群，5000+ 节点及 10w+ Pod 的日常运维、性能分析。
-- 原生 Kubernetes 特性扩展或增强。
-- AI Infra 调研及分享，昇腾 PD 分离（MindCluster + MindIE Motor）方案落地，RoCE v2 网络配置等工作。
+1. 云平台 100+ Kubernetes 集群，5000+ 节点及 10w+ Pod 的日常运维、性能分析。
+2. 原生 Kubernetes 特性扩展或增强。
+3. AI Infra 调研及分享，昇腾 PD 分离（MindCluster + MindIE Motor）方案落地，RoCE v2 网络配置等工作。
 
 #### kfeature (Go)
 
-kfeature 是一个用于增强原生 Kubernetes 特性的 Controller/Webhook，其主要完成以下工作：
+kfeature 是一个用于增强原生 Kubernetes 特性的 Controller/Webhook，主要完成以下工作：
 
-- Node CPU、内存资源超分。
+- Node CPU、内存资源的超分。
 - Node、Namespace 及工作负载的元数据管理。
 - Namespace 下 RBAC、ImagePullCred、LimitRange 相关资源的注入。
 
 #### RequeueIP (Go)
 
-RequeueIP 是一个 IPAM CNI Plugin。其搭配 Calico 实现工作负载（Deployment/StatefulSet）的固定 IP 地址。
+RequeueIP 是一个 IPAM CNI Plugin，其搭配 Calico 实现工作负载（Deployment/StatefulSet）的固定 IP 地址。
 
 #### CHPA (Go)
 
@@ -100,10 +99,7 @@ CHPA 是一个统计资源池（持同类标签的 Node）资源请求率及使�
 
 #### Spiderpool (Go)
 
-Spiderpool 是一个 IPAM CNI Plugin。我是 Spiderpool 的作者之一，它开源在：
-
-- Cloud Native Landscape: <https://landscape.cncf.io/?item=runtime--cloud-native-network--spiderpool>
-- GitHub: <https://github.com/spidernet-io/spiderpool>
+[Spiderpool](https://github.com/spidernet-io/spiderpool)（CNCF Sandbox）是一个 IPAM CNI Plugin。我是 Spiderpool 的作者之一，其收录于 [Cloud Native Landscape](https://landscape.cncf.io/?item=runtime--cloud-native-network--spiderpool)。
 
 ### 创智和宇信息技术股份有限公司
 
@@ -112,8 +108,8 @@ Spiderpool 是一个 IPAM CNI Plugin。我是 Spiderpool 的作者之一，它�
 
 #### sauto3 (Python3)
 
-sauto3 是一个基于 paramiko 的自动化运维工具。其托管各类中间件由部署到销毁的全生命周期，同时完成云平台相关的运维、数据备份以及容灾任务。
+sauto3 是一个基于 paramiko 的自动化运维工具，托管各类中间件由部署到销毁的全生命周期，同时完成云平台相关的运维、数据备份以及容灾任务。
 
 #### PowerRedis (Java)
 
-PowerRedis 是一个 Redis 数据库的可视化界面操作控制台。其提供诸如实例自动发现、web-cli、KV 界面管理、参数配置、审计日志、慢日志、热点 Key 等能力。
+PowerRedis 是一个 Redis 数据库的可视化界面操作控制台，提供诸如实例自动发现、web-cli、KV 界面管理、参数配置、审计日志、慢日志、热点 Key 等能力。
