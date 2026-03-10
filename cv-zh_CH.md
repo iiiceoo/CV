@@ -23,7 +23,7 @@
 
 ## 个人简介
 
-1. GitHub: *<https://github.com/iiiceoo>*
+1. GitHub: <https://github.com/iiiceoo>
 2. 六年服务端工作经验，熟悉 Kubernetes 及云原生相关生态。
 3. 熟练的 Linux、Kubernetes 排障能力。
 4. 良好的文档、代码风格和测试规范。
@@ -68,13 +68,13 @@
 ### 平安银行股份有限公司
 
 - 2023-07 - 至今
-- 基础架构工程师
+- IaaS 运维工程师
 
 #### 主要职责
 
 1. 云平台 100+ Kubernetes 集群，5000+ 节点及 10w+ Pod 的日常运维、性能分析。
 2. 原生 Kubernetes 特性扩展或增强。
-3. AI Infra 调研及分享，昇腾 PD 分离（MindCluster + MindIE Motor）方案落地，RoCE v2 网络配置等工作。
+3. 昇腾 PD 分离（MindCluster + MindIE Motor）方案落地，RoCE v2 网络配置等工作。
 
 #### kfeature (Go)
 
@@ -86,7 +86,7 @@ kfeature 是一个用于增强原生 Kubernetes 特性的 Controller/Webhook，�
 
 #### RequeueIP (Go)
 
-RequeueIP 是一个 IPAM CNI Plugin，其搭配 Calico 实现工作负载（Deployment/StatefulSet）的固定 IP 地址。
+RequeueIP 是一个 IPAM CNI Plugin，其搭配 Calico 实现工作负载（Deployment/StatefulSet）的 IP 地址固定。
 
 #### CHPA (Go)
 
