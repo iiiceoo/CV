@@ -24,9 +24,9 @@
 ## 个人简介
 
 - GitHub: <https://github.com/iiiceoo>
-- 六年云原生基础设施研发与运维经验，熟悉 Kubernetes 及云原生生态。
-- 丰富的 Linux、Kubernetes 故障排查与性能分析经验。
-- 良好的技术文档写作能力和规范的编码风格。
+- 六年基础设施工作经验，熟悉 Kubernetes 及云原生生态。
+- 丰富的 Linux、Kubernetes 排障与性能分析经验。
+- 良好的文档规范和代码风格。
 - 流畅的英文读写能力。
 
 ## 相关技能
