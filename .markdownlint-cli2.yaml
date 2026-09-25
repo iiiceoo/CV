@@ -1,4 +1,5 @@
-# Disable some build-in rules
 config:
   line-length: false
   MD033: false
+  MD024:
+    siblings_only: true
